@@ -7,7 +7,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: lukaskondiolka@seznam.cz
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=footer&fontSize=90&color=131126&)
 
 
 <!--
