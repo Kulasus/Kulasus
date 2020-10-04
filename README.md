@@ -7,6 +7,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: lukaskondiolka@seznam.cz
 
+![Profile views](https://gpvc.arturio.dev/Kulasus)
+
 
 
 <!--
